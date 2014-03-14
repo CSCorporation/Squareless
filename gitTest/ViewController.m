@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Hello From Git Saho");
     NSLog(@"Hello Again After Commit");
+    NSLog(@"Hello vix");
 }
 
 - (void)didReceiveMemoryWarning
